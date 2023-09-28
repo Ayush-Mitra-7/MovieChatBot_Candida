@@ -1,0 +1,10 @@
+^.*(top|best|highest).* (\d+).*rated.*$ 
+^.*(top|best|highest) (rated|movies).*$
+^(?:Can you tell me|What is) the release date of (?:the movie )?(.+)$
+^(?:Can you tell me|What is) the genre of (?:the movie )?(.+)$
+^(?:can you tell me|what is|i want to know about the) the rating of the movie (.+)$
+^(?:What is|Can you tell me|I want to know about|Can you tell me about the) (?:the )?(?:movie|tvshow) (.+?)(?: is about)?\??$
+^(?:What is) (.+?) is about\??$
+^(What do you know about).* (.+) .*$
+^Can you tell me about the movie (.+)$
+^Can you tell me about  (.+)$
